@@ -1,0 +1,66 @@
+Added Component: Designator=J1(TE 4DB-P108-02)
+Add component (AddParameter): Name = "Barrier Type"; Value = "2 Wall (Dual)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bottom Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437667-4&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/4DB-P108-02/A98472-ND/1277921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "15.01.2020 04:14:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Wire Entries"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "4DB-P108-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.325" (8.26mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "4DB, Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98472-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Block Type"; Value = "Barrier Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Top Termination"; Value = "Screws with Captive Plate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "12-22 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=J2(TE 4DB-P108-02)
+Add component (AddParameter): Name = "Barrier Type"; Value = "2 Wall (Dual)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bottom Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437667-4&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/4DB-P108-02/A98472-ND/1277921"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "15.01.2020 04:14:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Wire Entries"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "4DB-P108-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.325" (8.26mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "4DB, Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A98472-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Block Type"; Value = "Barrier Block"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Top Termination"; Value = "Screws with Captive Plate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "12-22 AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetR1_1
+Change Class Name : Old Net Name=LM2587 New Net Name=BOOST
+Added Member To Class: ClassName=BOOST Member=Component J1 4DB-P108-02
+Added Member To Class: ClassName=BOOST Member=Component J2 4DB-P108-02
+Added Room: Name=BOOST
